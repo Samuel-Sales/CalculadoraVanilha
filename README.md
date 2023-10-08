@@ -1,7 +1,6 @@
-# < Calculadora >
+# Calculadora
 <fig>
 <img src="/assets/Capa.png" alt="Imagem do projeto">
-<figcaption>Uma imagem relacionada ao projeto</figcaption>
 </fig>
 
 ## Inicialização
@@ -10,13 +9,13 @@ Para executar o projeto, utilize as ferramentas descritas na sessão *Ferramenta
 ## Ferramentas
 * [VSCODE](https://code.visualstudio.com/) - IDE para desenvolvimento.
 
-# < Calculadora >
+# Calculadora
 
 ## Introdução
 
 > O projeto é uma calculadora com operações de soma, subtração, divisão e multiplicação.
 
-Este projeto possui o objetivo principal **< realizar operações matemáticas >**.
+Este projeto possui o objetivo principal realizar operações matemáticas.
 
 ### Descrição do ambiente técnico
 
